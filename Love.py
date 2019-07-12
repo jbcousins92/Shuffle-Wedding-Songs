@@ -4,10 +4,10 @@ Shuffles through song titles that were on our wedding CD
 from tkinter import *
 from random import choice
 
-exps = ["Let it be me", "I can't help falling in love with you", "I want to hold your hand", "Let's get it on",
-        "Let my love open the door", "You are the best thing", "Crazy Beautiful",
-        "and I love her", "Wouldn't it be nice", "Until the end of time", "Adorn", "Stay with you",
-        "Each day gets better", "We found love", "How can I tell you"]
+exps = ["Let It Be Me", "I Can't Help Falling in Love With You", "I Want to Hold Your Hand", "Let's Get It On",
+        "Let My Love Open the Door", "You Are the Best Thing", "Crazy Beautiful",
+        "And I Love Her", "Wouldn't It Be Nice", "Until the End of Time", "Adorn", "Stay With You",
+        "Each Day Gets Better", "We Found Love", "How Can I Tell You"]
 
 root = Tk()
 root.title("For My Wife")
